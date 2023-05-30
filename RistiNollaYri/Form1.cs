@@ -16,5 +16,15 @@ namespace RistiNollaYri
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void displayturn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
